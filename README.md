@@ -9,4 +9,6 @@
 - БЭМ
 - Git
 ___
-### Посмотреть
+### Посмотреть:
+
+[Ссылка на GitHub Pages](https://anilyukina.github.io/bitcoin/)
