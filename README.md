@@ -10,5 +10,7 @@
 - Git
 ___
 ### Посмотреть:
-
 [Ссылка на GitHub Pages](https://anilyukina.github.io/how-to-learn/) :feet:
+___
+### Можно лучше:
+:radio_button: Отформатировать код
